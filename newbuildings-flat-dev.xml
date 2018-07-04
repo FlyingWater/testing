@@ -87,7 +87,7 @@
     <SeparateWcsCount>1</SeparateWcsCount>
     <CombinedWcsCount>1</CombinedWcsCount>
     <HasRamp>true</HasRamp>
-    <IsInHiddenBase>true</IsInHiddenBase>
+    <IsInHiddenBase>false</IsInHiddenBase>
     <Videos>
       <VideoSchema>
         <Url>https://www.youtube.com/watch?v=InzO5t78Z_Q</Url>
@@ -135,6 +135,143 @@
         <Currency>eur</Currency>
       </AgentBonus>
       <ActionId>10897</ActionId>
+    </BargainTerms>
+  </object>
+<object>
+    <Category>newBuildingFlatSale</Category>
+    <ExternalId>10822269</ExternalId>
+    <RoomType>both</RoomType>
+    <Description>Текст объявления.</Description>
+    <Address>Санкт-Петербург, Петергоф, улица Парковая, 18к3</Address>
+    <Coordinates>
+      <Lat>59.859288</Lat>
+      <Lng>29.936164</Lng>
+    </Coordinates>
+    <CadastralNumber>47:14:1203001:814</CadastralNumber>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9999999999</Number>
+      </PhoneSchema>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9999999999</Number>
+      </PhoneSchema>
+    </Phones>
+    <Highway>
+      <Id>42</Id>
+      <Distance>4.2</Distance>
+    </Highway>
+    <IsApartments>true</IsApartments>
+    <Undergrounds>
+      <UndergroundInfoSchema>
+        <Id>42</Id>
+        <Time>42</Time>
+        <TransportType>transport</TransportType>
+      </UndergroundInfoSchema>
+      <UndergroundInfoSchema>
+        <Id>42</Id>
+        <Time>42</Time>
+        <TransportType>transport</TransportType>
+      </UndergroundInfoSchema>
+    </Undergrounds>
+    <IsPenthouse>true</IsPenthouse>
+    <TotalArea>400.2</TotalArea>
+    <FloorNumber>42</FloorNumber>
+    <JKSchema>
+      <Id>6911</Id>
+      <Name>ЖК "Квартал"</Name>
+      <House>
+        <Id>42</Id>
+        <Name>Корпус 1</Name>
+        <Flat>
+          <FlatNumber>42</FlatNumber>
+          <SectionNumber>1</SectionNumber>
+          <FlatType>2-1</FlatType>
+        </Flat>
+      </House>
+    </JKSchema>
+    <SubAgent>
+      <Email>subagent@realtor.ru</Email>
+      <Phone>+7 (911) 123-45-67</Phone>
+      <FirstName>Петр</FirstName>
+      <LastName>Иванов</LastName>
+      <AvatarUrl>http://domain.com/159880980.jpg</AvatarUrl>
+    </SubAgent>
+    <AllRoomsArea>18+18-18</AllRoomsArea>
+    <LivingArea>5</LivingArea>
+    <KitchenArea>5</KitchenArea>
+    <LoggiasCount>1</LoggiasCount>
+    <LayoutPhoto>
+      <FullUrl>http://example.com/flat1.jpg</FullUrl>
+      <IsDefault>true</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>http://example.com/flat1.jpg</FullUrl>
+        <IsDefault>true</IsDefault>
+      </PhotoSchema>
+      <PhotoSchema>
+        <FullUrl>http://example.com/flat1.jpg</FullUrl>
+        <IsDefault>true</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <BalconiesCount>42</BalconiesCount>
+    <Decoration>fine</Decoration>
+    <ProjectDeclarationUrl>http://example.com/project-declaration.pdf</ProjectDeclarationUrl>
+    <WindowsViewType>street</WindowsViewType>
+    <SeparateWcsCount>1</SeparateWcsCount>
+    <CombinedWcsCount>1</CombinedWcsCount>
+    <HasRamp>true</HasRamp>
+    <IsInHiddenBase>false</IsInHiddenBase>
+    <Videos>
+      <VideoSchema>
+        <Url>https://www.youtube.com/watch?v=InzO5t78Z_Q</Url>
+      </VideoSchema>
+      <VideoSchema>
+        <Url>https://www.youtube.com/watch?v=InzO5t78Z_Q</Url>
+      </VideoSchema>
+    </Videos>
+    <Building>
+      <FloorsCount>42</FloorsCount>
+      <MaterialType>brick</MaterialType>
+      <CeilingHeight>4.2</CeilingHeight>
+      <PassengerLiftsCount>42</PassengerLiftsCount>
+      <CargoLiftsCount>42</CargoLiftsCount>
+      <Parking>
+        <Type>ground</Type>
+      </Parking>
+      <Deadline>
+        <Quarter>first</Quarter>
+        <Year>2010</Year>
+        <IsComplete>true</IsComplete>
+      </Deadline>
+    </Building>
+    <PublishTerms>
+      <Terms>
+        <PublishTermSchema>
+          <Services>
+            <ServicesEnum>premium</ServicesEnum>
+            <ServicesEnum>highlight</ServicesEnum>
+          </Services>
+          <ExcludedServices>
+            <ExcludedServicesEnum>top3</ExcludedServicesEnum>
+          </ExcludedServices>
+        </PublishTermSchema>
+      </Terms>
+    </PublishTerms>
+    <BargainTerms>
+      <Price>4.2</Price>
+      <Currency>eur</Currency>
+      <MortgageAllowed>true</MortgageAllowed>
+      <SaleType>dupt</SaleType>
+      <AgentBonus>
+        <Value>4.2</Value>
+        <PaymentType>percent</PaymentType>
+        <Currency>eur</Currency>
+      </AgentBonus>
+      <ActionId>10481</ActionId>
     </BargainTerms>
   </object>
 </feed>
