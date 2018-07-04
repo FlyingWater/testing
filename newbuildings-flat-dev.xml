@@ -2,7 +2,7 @@
   <feed_version>2</feed_version>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>10822378</ExternalId>
+    <ExternalId>10822371</ExternalId>
     <RoomType>both</RoomType>
     <Description>Текст объявления.</Description>
     <Address>Москва, 3-й Кадашёвский переулок, 9</Address>
@@ -43,7 +43,7 @@
     <TotalArea>4.2</TotalArea>
     <FloorNumber>42</FloorNumber>
     <JKSchema>
-      <Id>42</Id>
+      <Id>6911</Id>
       <Name>ЖК "Квартал"</Name>
       <House>
         <Id>42</Id>
@@ -62,10 +62,10 @@
       <LastName>Иванов</LastName>
       <AvatarUrl>http://domain.com/159880980.jpg</AvatarUrl>
     </SubAgent>
-    <AllRoomsArea>18+14-10</AllRoomsArea>
-    <LivingArea>4.2</LivingArea>
-    <KitchenArea>4.2</KitchenArea>
-    <LoggiasCount>42</LoggiasCount>
+    <AllRoomsArea>18+18-18</AllRoomsArea>
+    <LivingArea>5</LivingArea>
+    <KitchenArea>5</KitchenArea>
+    <LoggiasCount>1</LoggiasCount>
     <LayoutPhoto>
       <FullUrl>http://example.com/flat1.jpg</FullUrl>
       <IsDefault>true</IsDefault>
@@ -107,7 +107,7 @@
       </Parking>
       <Deadline>
         <Quarter>first</Quarter>
-        <Year>42</Year>
+        <Year>2010</Year>
         <IsComplete>true</IsComplete>
       </Deadline>
     </Building>
