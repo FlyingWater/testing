@@ -2,24 +2,24 @@
   <feed_version>2</feed_version>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>10822371</ExternalId>
+    <ExternalId>10822370</ExternalId>
     <RoomType>both</RoomType>
     <Description>Текст объявления.</Description>
-    <Address>Москва, 3-й Кадашёвский переулок, 9</Address>
+    <Address>Санкт-Петербург, Петергоф, улица Парковая, 18к3</Address>
     <Coordinates>
-      <Lat>4.2</Lat>
-      <Lng>4.2</Lng>
+      <Lat>59.859288</Lat>
+      <Lng>29.936164</Lng>
     </Coordinates>
     <CadastralNumber>47:14:1203001:814</CadastralNumber>
     <FlatRoomsCount>2</FlatRoomsCount>
     <Phones>
       <PhoneSchema>
         <CountryCode>+7</CountryCode>
-        <Number>92612345678</Number>
+        <Number>9999999999</Number>
       </PhoneSchema>
       <PhoneSchema>
         <CountryCode>+7</CountryCode>
-        <Number>92612345678</Number>
+        <Number>9999999999</Number>
       </PhoneSchema>
     </Phones>
     <Highway>
@@ -40,7 +40,7 @@
       </UndergroundInfoSchema>
     </Undergrounds>
     <IsPenthouse>true</IsPenthouse>
-    <TotalArea>4.2</TotalArea>
+    <TotalArea>400.2</TotalArea>
     <FloorNumber>42</FloorNumber>
     <JKSchema>
       <Id>6911</Id>
@@ -134,7 +134,7 @@
         <PaymentType>percent</PaymentType>
         <Currency>eur</Currency>
       </AgentBonus>
-      <ActionId>A-10897</ActionId>
+      <ActionId>10897</ActionId>
     </BargainTerms>
   </object>
 </feed>
