@@ -67,13 +67,12 @@
 		<SaleType>fz214</SaleType>
 	</BargainTerms>
 </object>
-
 <object>
 	<Category>newBuildingFlatSale</Category>
 	<ExternalId>3245</ExternalId>
 	<Description>Объявление создано администрацией ЦИАНА. Объявление не является публичной офертой. Телефон указанный в объявлении является случайным набором цифр. Пожалуйста, не обращайте внимание на данное объявление.</Description>
 	<FlatRoomsCount>2</FlatRoomsCount>
-	<TotalArea>81.70</TotalArea>
+	<TotalArea>82.70</TotalArea>
 	<IsApartments>true</IsApartments>
 	<Address>Магадан, Колымское шоссе, 15А</Address>
 	<Coordinates>
@@ -94,7 +93,7 @@
 			<Id>101151</Id>
 			<Name>«по Колымскому шоссе, 15а»</Name>
 			<Flat>
-				<FlatNumber>5</FlatNumber>
+				<FlatNumber>6</FlatNumber>
 				<SectionNumber>2</SectionNumber>
 				<FlatType>2-81.7</FlatType>
 			</Flat>
@@ -103,7 +102,7 @@
 			<Name>Тестовый застройщик ЦИАН</Name>
 		</Developer>
 	</JKSchema>
-	<AllRoomsArea>14.9+22.3</AllRoomsArea>
+	<AllRoomsArea>15.9+22.3</AllRoomsArea>
 	<LivingArea>37.20</LivingArea>
 	<KitchenArea>18.00</KitchenArea>
 	<Photos>
@@ -123,7 +122,7 @@
 		<CargoLiftsCount>0</CargoLiftsCount>
 	</Building>
 	<BargainTerms>
-		<Price>22554800</Price>
+		<Price>23554800</Price>
 		<Currency>rur</Currency>
 		<MortgageAllowed>1</MortgageAllowed>
 		<SaleType>fz214</SaleType>
