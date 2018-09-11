@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed>
+<feed_version>2</feed_version>
+<object>
+	<Category>newBuildingFlatSale</Category>
+	<ExternalId>32453647</ExternalId>
+	<Description>Объявление создано администрацией ЦИАНА. Объявление не является публичной офертой. Телефон указанный в объявлении является случайным набором цифр. Пожалуйста, не обращайте внимание на данное объявление.</Description>
+	<FlatRoomsCount>2</FlatRoomsCount>
+	<TotalArea>81.70</TotalArea>
+	<IsApartments>true</IsApartments>
+	<Address>Магадан, Колымское шоссе, 15А</Address>
+	<Coordinates>
+		<Lat>59.577327300000</Lat>
+		<Lng>150.81722250000</Lng>
+	</Coordinates>
+	<Phones>
+		<PhoneSchema>
+			<CountryCode>+7</CountryCode>
+			<Number>9001112233</Number>
+		</PhoneSchema>
+	</Phones>
+	<FloorNumber>9</FloorNumber>
+	<JKSchema>
+		<Id>45041</Id>
+		<Name>ЖК «по Колымскому шоссе, 15а»</Name>
+		<House>
+			<Id>101151</Id>
+			<Name>«по Колымскому шоссе, 15а»</Name>
+			<Flat>
+				<FlatNumber>5</FlatNumber>
+				<SectionNumber>2</SectionNumber>
+				<FlatType>2-81.7</FlatType>
+			</Flat>
+		</House>
+		<Developer>
+			<Name>Тестовый застройщик ЦИАН</Name>
+		</Developer>
+	</JKSchema>
+	<AllRoomsArea>14.9+22.3</AllRoomsArea>
+	<LivingArea>37.20</LivingArea>
+	<KitchenArea>18.00</KitchenArea>
+	<Photos>
+		<PhotoSchema>
+			<FullUrl>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCvIf4M4xXPlTrkcbbMlBvKemVqRwU8zwO3KEAr6GpOeJ5nQa</FullUrl>
+			<IsDefault>true</IsDefault>
+		</PhotoSchema>
+		<PhotoSchema>
+		</PhotoSchema>
+	</Photos>
+	<Decoration>without</Decoration>
+	<SeparateWcsCount>2</SeparateWcsCount>
+	<Building>
+		<FloorsCount>12</FloorsCount>
+		<MaterialType>brick</MaterialType>
+		<PassengerLiftsCount>1</PassengerLiftsCount>
+		<CargoLiftsCount>0</CargoLiftsCount>
+		<Deadline>
+			<Quarter>fourth</Quarter>
+			<Year>2018</Year>
+			<IsComplete>false</IsComplete>
+		</Deadline>
+	</Building>
+	<BargainTerms>
+		<Price>22554800</Price>
+		<Currency>rur</Currency>
+		<MortgageAllowed>1</MortgageAllowed>
+		<SaleType>fz214</SaleType>
+	</BargainTerms>
+</object>
+</feed>
