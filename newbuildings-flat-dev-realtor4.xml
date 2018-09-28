@@ -2,7 +2,7 @@
   <feed_version>2</feed_version>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>1082122369</ExternalId>
+    <ExternalId>17682969</ExternalId>
     <RoomType>both</RoomType>
     <Description>Текст объявления.</Description>
     <Address>Москва, Ясеневая улица</Address>
@@ -41,7 +41,7 @@
     </Undergrounds>
     <IsPenthouse>true</IsPenthouse>
     <TotalArea>400.2</TotalArea>
-    <FloorNumber>1</FloorNumber>
+    <FloorNumber>7</FloorNumber>
     <JKSchema>
       <Id>43851</Id>
       <Name>ЖК «Ясеневая 14»</Name>
@@ -49,8 +49,8 @@
         <Id>98686</Id>
         <Name>Корпус «Блок 1»</Name>
         <Flat>
-          <FlatNumber>2</FlatNumber>
-          <SectionNumber>760</SectionNumber>
+          <FlatNumber>6</FlatNumber>
+          <SectionNumber>1</SectionNumber>
           <FlatType>2-1</FlatType>
         </Flat>
       </House>
