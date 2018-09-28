@@ -2,7 +2,7 @@
   <feed_version>2</feed_version>
   <object>
     <Category>newBuildingFlatSale</Category>
-    <ExternalId>108212369</ExternalId>
+    <ExternalId>1082122369</ExternalId>
     <RoomType>both</RoomType>
     <Description>Текст объявления.</Description>
     <Address>Санкт-Петербург, Петергоф, улица Парковая, 18к3</Address>
@@ -49,7 +49,7 @@
         <Id>98686</Id>
         <Name>Корпус «Блок 1»</Name>
         <Flat>
-          <FlatNumber>1</FlatNumber>
+          <FlatNumber>2</FlatNumber>
           <SectionNumber>760</SectionNumber>
           <FlatType>2-1</FlatType>
         </Flat>
