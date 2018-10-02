@@ -1,12 +1,12 @@
-<feed>
+п»ї<feed>
   <feed_version>2</feed_version>
 	  <object>
 	  <category>newBuildingFlatSale</category>
 	  <externalid>14378345892</externalid>
-	  <description>Объявление №1</description>
+	  <description>РћР±СЉСЏРІР»РµРЅРёРµ в„–1</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
-	  <address>Челябинск, улица Кирова, 159</address>
+	  <address>Р§РµР»СЏР±РёРЅСЃРє, СѓР»РёС†Р° РљРёСЂРѕРІР°, 159</address>
 	  <coordinates>
 		<lat>55.164609</lat>
 		<lng>61.401187</lng>
@@ -24,7 +24,7 @@
 		<name>Chelyabinsk City</name>
 		<house>
 		  <id>99045</id>
-		  <name>Бекон</name>
+		  <name>Р‘РµРєРѕРЅ</name>
 		  <flat>
 			<flatnumber>1</flatnumber>
 			<sectionnumber>9737</sectionnumber>
