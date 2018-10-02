@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<feed>
+  <feed_version>2</feed_version>
+	  <object>
+	  <category>newBuildingFlatSale</category>
+	  <externalid>14378345892</externalid>
+	  <description>Объявление №1</description>
+	  <flatroomscount>2</flatroomscount>
+	  <totalarea>52.60</totalarea>
+	  <address>Челябинск, улица Кирова, 159</address>
+	  <coordinates>
+		<lat>55.164609</lat>
+		<lng>61.401187</lng>
+	  </coordinates>
+	  <cadastralnumber>50:11:0010104:608</cadastralnumber>
+	  <phones>
+		<phoneschema>
+		  <countrycode>+7</countrycode>
+		  <number>9999999999</number>
+		</phoneschema>
+	  </phones>
+	  <floornumber>9</floornumber>
+	  <jkschema>
+		<id>44080</id>
+		<name>Chelyabinsk City</name>
+		<house>
+		  <id>99045</id>
+		  <name>Бекон</name>
+		  <flat>
+			<flatnumber>1</flatnumber>
+			<sectionnumber>9737</sectionnumber>
+		  </flat>
+		</house>
+		<developer>
+		  <id>12586</id>
+		  <name>ultrafastparrot</name>
+		</developer>
+	  </jkschema>
+	  <allroomsarea>10.4+15.7</allroomsarea>
+	  <livingarea>26.1</livingarea>
+	  <kitchenarea>12.3</kitchenarea>
+	  <loggiascount>0</loggiascount>
+	  <balconiescount>1</balconiescount>
+	  <photos>
+		<photoschema>
+		  <fullurl>http://www.emls.ru/spb/term/images/stroy/lssmu/18000000000000301/42000000000104186kv.jpg</fullurl>
+		  <isdefault>true</isdefault>
+		</photoschema>
+		<photoschema>
+		  <fullurl>http://www.emls.ru/spb/term/images/stroy/lssmu/18000000000000301/42000000000104186float.jpg</fullurl>
+		  <isdefault>true</isdefault>
+		</photoschema>
+	  </photos>
+	  <decoration>without</decoration>
+	  <projectdeclarationurl/>
+	  <separatewcscount>2</separatewcscount>
+	  <combinedwcscount>0</combinedwcscount>
+	  <building>
+		<floorscount>25</floorscount>
+		<materialtype>monolith</materialtype>
+		<parking>
+		  <type>underground</type>
+		</parking>
+		<deadline>
+		  <quarter>fourth</quarter>
+		  <year>2017</year>
+		  <iscomplete>false</iscomplete>
+		</deadline>
+	  </building>
+	  <bargainterms>
+		<price>3584704.00</price>
+		<currency>rur</currency>
+		<mortgageallowed>true</mortgageallowed>
+		<saletype>fz214</saletype>
+	  </bargainterms>
+	</object>
+</feed>
