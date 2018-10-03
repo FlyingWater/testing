@@ -26,7 +26,7 @@
 		  <id>99045</id>
 		  <name>Бекон</name>
 		  <flat>
-			<flatnumber>1</flatnumber>
+			<flatnumber>5</flatnumber>
 			<sectionnumber>1</sectionnumber>
 		  </flat>
 		</house>
@@ -55,7 +55,7 @@
 	  <separatewcscount>2</separatewcscount>
 	  <combinedwcscount>0</combinedwcscount>
 	  <building>
-		<floorscount>25</floorscount>
+		<floorscount>10</floorscount>
 		<materialtype>monolith</materialtype>
 		<parking>
 		  <type>underground</type>
@@ -128,7 +128,7 @@
 	  <separatewcscount>2</separatewcscount>
 	  <combinedwcscount>0</combinedwcscount>
 	  <building>
-		<floorscount>25</floorscount>
+		<floorscount>10</floorscount>
 		<materialtype>monolith</materialtype>
 		<parking>
 		  <type>underground</type>
@@ -201,7 +201,7 @@
 	  <separatewcscount>2</separatewcscount>
 	  <combinedwcscount>0</combinedwcscount>
 	  <building>
-		<floorscount>25</floorscount>
+		<floorscount>10</floorscount>
 		<materialtype>monolith</materialtype>
 		<parking>
 		  <type>underground</type>
@@ -274,7 +274,7 @@
 	  <separatewcscount>2</separatewcscount>
 	  <combinedwcscount>0</combinedwcscount>
 	  <building>
-		<floorscount>25</floorscount>
+		<floorscount>10</floorscount>
 		<materialtype>monolith</materialtype>
 		<parking>
 		  <type>underground</type>
