@@ -2,7 +2,7 @@
   <feed_version>2</feed_version>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>14378345892</externalid>
+	  <externalid>34378345892</externalid>
 	  <description>Объявление №1</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
@@ -28,6 +28,7 @@
 		  <flat>
 			<flatnumber>5</flatnumber>
 			<sectionnumber>1</sectionnumber>
+			<flattype>2-52.6</flattype>
 		  </flat>
 		</house>
 		<developer>
@@ -75,7 +76,7 @@
 	</object>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>14378345894</externalid>
+	  <externalid>34378345894</externalid>
 	  <description>Объявление №3</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
@@ -101,6 +102,7 @@
 		  <flat>
 			<flatnumber>1</flatnumber>
 			<sectionnumber>1</sectionnumber>
+			<flattype>2-52.6</flattype>
 		  </flat>
 		</house>
 		<developer>
@@ -148,7 +150,7 @@
 	</object>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>14378345895</externalid>
+	  <externalid>34378345895</externalid>
 	  <description>Объявление №3</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
@@ -174,6 +176,7 @@
 		  <flat>
 			<flatnumber>1</flatnumber>
 			<sectionnumber>1</sectionnumber>
+			<flattype>2-52.6</flattype>
 		  </flat>
 		</house>
 		<developer>
@@ -221,7 +224,7 @@
 	</object>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>14378345896</externalid>
+	  <externalid>34378345896</externalid>
 	  <description>Объявление №4</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
@@ -247,6 +250,7 @@
 		  <flat>
 			<flatnumber>2</flatnumber>
 			<sectionnumber>9737</sectionnumber>
+			<flattype>2-52.6</flattype>
 		  </flat>
 		</house>
 		<developer>
