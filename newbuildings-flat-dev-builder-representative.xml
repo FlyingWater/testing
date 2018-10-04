@@ -2,7 +2,7 @@
   <feed_version>2</feed_version>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>34378345892</externalid>
+	  <externalid>81378345892</externalid>
 	  <description>Объявление №1</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
@@ -26,8 +26,8 @@
 		  <id>99045</id>
 		  <name>Бекон</name>
 		  <flat>
-			<flatnumber>5</flatnumber>
 			<sectionnumber>1</sectionnumber>
+			<flatnumber>5</flatnumber>
 			<flattype>2-52.6</flattype>
 		  </flat>
 		</house>
@@ -76,7 +76,7 @@
 	</object>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>34378345894</externalid>
+	  <externalid>81378345894</externalid>
 	  <description>Объявление №3</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
@@ -100,8 +100,8 @@
 		  <id>99045</id>
 		  <name>Бекон</name>
 		  <flat>
-			<flatnumber>1</flatnumber>
 			<sectionnumber>1</sectionnumber>
+			<flatnumber>1</flatnumber>
 			<flattype>2-52.6</flattype>
 		  </flat>
 		</house>
@@ -142,7 +142,7 @@
 		</deadline>
 	  </building>
 	  <bargainterms>
-		<price>3584700.00</price>
+		<price>4384700.00</price>
 		<currency>rur</currency>
 		<mortgageallowed>true</mortgageallowed>
 		<saletype>fz214</saletype>
@@ -150,7 +150,7 @@
 	</object>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>34378345895</externalid>
+	  <externalid>81378345895</externalid>
 	  <description>Объявление №3</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
@@ -174,8 +174,8 @@
 		  <id>99045</id>
 		  <name>Бекон</name>
 		  <flat>
-			<flatnumber>1</flatnumber>
 			<sectionnumber>1</sectionnumber>
+			<flatnumber>1</flatnumber>
 			<flattype>2-52.6</flattype>
 		  </flat>
 		</house>
@@ -224,7 +224,7 @@
 	</object>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>34378345896</externalid>
+	  <externalid>81378345896</externalid>
 	  <description>Объявление №4</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
@@ -240,7 +240,7 @@
 		  <number>9999999999</number>
 		</phoneschema>
 	  </phones>
-	  <floornumber>6</floornumber>
+	  <floornumber>4</floornumber>
 	  <jkschema>
 		<id>44080</id>
 		<name>Chelyabinsk City</name>
@@ -248,8 +248,8 @@
 		  <id>99045</id>
 		  <name>Бекон</name>
 		  <flat>
+			<sectionnumber>1</sectionnumber>
 			<flatnumber>2</flatnumber>
-			<sectionnumber>9737</sectionnumber>
 			<flattype>2-52.6</flattype>
 		  </flat>
 		</house>
