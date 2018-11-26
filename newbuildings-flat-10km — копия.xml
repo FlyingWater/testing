@@ -1,13 +1,13 @@
 ﻿<feed>
   <feed_version>2</feed_version>
 <object>
-  <externalid>6196788963</externalid>
+  <externalid>6197963</externalid>
   <category>flatSale</category>
-  <address>Москва, Весенняя улица, 6</address>
+  <address>Московская область, Одинцовский район, пос. Заречье, Весенняя улица, 1с5</address>
   <phones>
     <phoneschema>
       <countrycode>+7</countrycode>
-      <number>9999999998</number>
+      <number>9199199199</number>
     </phoneschema>
   </phones>
   <undergrounds>
@@ -48,8 +48,8 @@
     </parking>
   </building>
   <coordinates>
-    <lat>55.695204238505</lat>
-    <lng>37.400586755207</lng>
+    <lat>55.696174</lat>
+    <lng>37.400477</lng>
   </coordinates>
   <cadastralnumber />
   <isapartments />
