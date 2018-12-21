@@ -1,137 +1,185 @@
 ﻿<feed>
   <feed_version>2</feed_version>
 <object>
-  <externalid>6196788963</externalid>
-  <category>flatSale</category>
-  <address>Москва, Весенняя улица, 6</address>
+  <category>newBuildingFlatSale</category>
+  <externalid>87657654</externalid>
+  <feedboxmultiofferkey>15479084</feedboxmultiofferkey>
+  <description>Клубный дом Grand House расположен в исторической части города, в 400 метрах от Невского проспекта, на ул. Тележная, 17-19А. Выбор места определяет премиальный статус дома и открывает для его жителей целый ряд преимуществ: насыщенная инфраструктура с высоким уровнем сервиса, комфортный ритм жизни, неповторимая атмосфера центра Санкт-Петербурга.
+Дом премиум-класса рассчитан на 259 квартир площадью от 37 до 136 кв. м. На первом этаже предусмотрены коммерческие помещения, на нижнем уровне – подземный паркинг на 175 мест.
+Существенным преимуществом проекта является богатая инфраструктура района застройки, которая сделает проживание в комплексе не только удобным, но и статусным. В шаговой доступности находится Невский проспект с основными достопримечательностями. Транспортную доступность, помимо главной городской магистрали, обеспечат станции метро «Площадь Александра Невского» и «Площадь Восстания», а для любителей путешествий и тех, кто часто ездит в командировки – рядом Московский вокзал.
+Общая площадь проекта составит более 33 000 кв. м. Ввод в эксплуатацию Grand House запланирован во 2 квартале 2021 года.</description>
+  <flatroomscount>1</flatroomscount>
+  <totalarea>38.16</totalarea>
+  <isapartments>false</isapartments>
+  <address>Санкт-Петербург, Тележная улица, 17-19</address>
+  <coordinates>
+    <lat>59.925036311404</lat>
+    <lng>30.373172947081</lng>
+  </coordinates>
   <phones>
     <phoneschema>
       <countrycode>+7</countrycode>
-      <number>9999999998</number>
+      <number>8126034343</number>
     </phoneschema>
   </phones>
-  <undergrounds>
-    <undergroundinfoschema>
-      <id>60</id>
-      <time>49</time>
-      <transporttype>walk</transporttype>
-    </undergroundinfoschema>
-  </undergrounds>
-  <publishterms>
-    <terms>
-      <publishtermschema>
-        <services />
-      </publishtermschema>
-    </terms>
-  </publishterms>
-  <flatroomscount>2</flatroomscount>
-  <totalarea>80</totalarea>
-  <livingarea>48</livingarea>
-  <kitchenarea>10</kitchenarea>
-  <floornumber>4</floornumber>
+  <floornumber>7</floornumber>
   <jkschema>
-    <id>6568</id>
-    <name>Сколково Парк</name>
+    <id>49041</id>
+    <name>Grand House (Гранд Хаус)</name>
+    <house>
+      <id>546087</id>
+      <name>Grand House</name>
+      <flat>
+        <sectionnumber>3</sectionnumber>
+        <flatnumber>4</flatnumber>
+        <flattype>1-38.16</flattype>
+      </flat>
+    </house>
+    <developer>
+      <name>Glorax Development</name>
+    </developer>
   </jkschema>
-  <building>
-    <name />
-    <floorscount>9</floorscount>
-    <buildyear />
-    <materialtype>monolithBrick</materialtype>
-    <series>Индивидуальный проект</series>
-    <ceilingheight />
-    <passengerliftscount>1</passengerliftscount>
-    <cargoliftscount>1</cargoliftscount>
-    <hasgarbagechute>true</hasgarbagechute>
-    <parking>
-      <type>underground</type>
-    </parking>
-  </building>
-  <coordinates>
-    <lat>55.695204238505</lat>
-    <lng>37.400586755207</lng>
-  </coordinates>
-  <cadastralnumber />
-  <isapartments />
-  <ispenthouse>false</ispenthouse>
-  <loggiascount>0</loggiascount>
+  <allroomsarea>14.17</allroomsarea>
+  <livingarea>14.17</livingarea>
+  <kitchenarea>9.94</kitchenarea>
   <balconiescount>1</balconiescount>
-  <windowsviewtype>yard</windowsviewtype>
-  <separatewcscount>2</separatewcscount>
-  <combinedwcscount>0</combinedwcscount>
-  <repairtype>no</repairtype>
-  <hasphone>true</hasphone>
-  <hasramp>false</hasramp>
-  <bargainterms>
-    <price>24000000</price>
-    <currency>rur</currency>
-    <mortgageallowed>true</mortgageallowed>
-    <saletype>free</saletype>
-    <agentbonus>
-      <value>0</value>
-      <paymenttype>percent</paymenttype>
-      <currency>rur</currency>
-    </agentbonus>
-  </bargainterms>
-  <description>Это тестовое объявление, созданное администрацией ЦИАН.</description>
+  <layoutphoto>
+    <fullurl>http://regions.emls.ru/uploads/44/220000/00/ab/616222.png</fullurl>
+    <isdefault>true</isdefault>
+  </layoutphoto>
   <photos>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_0154.jpg</fullurl>
-      <isdefault>true</isdefault>
-    </photoschema>
-    <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_0117.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/5/156/325/grand-house-sankt-peterburg-jk-523651586-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_6452%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651606-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_6457.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651622-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_6460.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651639-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_6454%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651652-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_0206.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651656-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_0141.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651671-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_0162.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651678-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_0379.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651685-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_0168.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/6/156/325/grand-house-sankt-peterburg-jk-523651694-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
     <photoschema>
-      <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto/IMG_0287.jpg</fullurl>
+      <fullurl>https://cdn-p.cian.site/images/7/156/325/grand-house-sankt-peterburg-jk-523651706-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/7/156/325/grand-house-sankt-peterburg-jk-523651715-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/7/156/325/grand-house-sankt-peterburg-jk-523651726-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/7/156/325/grand-house-sankt-peterburg-jk-523651741-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/7/156/325/grand-house-sankt-peterburg-jk-523651757-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/7/156/325/grand-house-sankt-peterburg-jk-523651779-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/7/156/325/grand-house-sankt-peterburg-jk-523651788-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/8/156/325/grand-house-sankt-peterburg-jk-523651802-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/8/156/325/grand-house-sankt-peterburg-jk-523651817-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/8/156/325/grand-house-sankt-peterburg-jk-523651827-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/8/156/325/grand-house-sankt-peterburg-jk-523651852-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/8/156/325/grand-house-sankt-peterburg-jk-523651870-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/8/156/325/grand-house-sankt-peterburg-jk-523651885-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/8/156/325/grand-house-sankt-peterburg-jk-523651895-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/9/156/325/grand-house-sankt-peterburg-jk-523651906-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/9/156/325/grand-house-sankt-peterburg-jk-523651913-6.jpg</fullurl>
+      <isdefault>false</isdefault>
+    </photoschema>
+    <photoschema>
+      <fullurl>https://cdn-p.cian.site/images/9/156/325/grand-house-sankt-peterburg-jk-523651920-6.jpg</fullurl>
       <isdefault>false</isdefault>
     </photoschema>
   </photos>
-  <layoutphoto>
-    <fullurl>http://export.savills.su/img.php?w=0&amp;wm=1&amp;t=1520239290&amp;path=town/flats/61463/foto_plan/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.JPG</fullurl>
-    <isdefault>false</isdefault>
-  </layoutphoto>
-  <videos>
-    <videoschema>
-      <url />
-    </videoschema>
-  </videos>
+  <separatewcscount>0</separatewcscount>
+  <combinedwcscount>1</combinedwcscount>
+  <building>
+    <floorscount>9</floorscount>
+    <materialtype>monolith</materialtype>
+    <passengerliftscount>1</passengerliftscount>
+    <cargoliftscount>0</cargoliftscount>
+    <parking>
+      <type>underground</type>
+    </parking>
+    <deadline>
+      <quarter>second</quarter>
+      <year>2021</year>
+      <iscomplete>false</iscomplete>
+    </deadline>
+  </building>
+  <bargainterms>
+    <price>8120450</price>
+    <currency>rur</currency>
+    <mortgageallowed>true</mortgageallowed>
+    <saletype>Первичная продажа</saletype>
+  </bargainterms>
+  <ispenthouse>false</ispenthouse>
+  <hasramp>false</hasramp>
 </object>
 </feed>
