@@ -2,8 +2,9 @@
   <feed_version>2</feed_version>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>82153</externalid>
+	  <externalid>823392</externalid>
 	  <description>Тестовое объявление.</description>
+	  <flatroomscount>2</flatroomscount>
 	  <IsApartments>True</IsApartments>
 	  <totalarea>52.60</totalarea>
 	  <address>Москва, ЗАО, Солнцево, Производственная улица, 12к1</address>
