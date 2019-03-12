@@ -100,9 +100,6 @@
     <currency>rur</currency> 
     <mortgageallowed>true</mortgageallowed> 
     <saletype>free</saletype> 
-  </bargainterms> 
-  <jkschema> 
-    <id>8296</id> 
-  </jkschema> 
+  </bargainterms>  
 </object>
 </feed>
