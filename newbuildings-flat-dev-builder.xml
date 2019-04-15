@@ -2,14 +2,14 @@
   <feed_version>2</feed_version>
 	  <object>
 	  <category>newBuildingFlatSale</category>
-	  <externalid>8278F345822</externalid>
-	  <description>Объявление №1</description>
+	  <externalid>8278F32</externalid>
+	  <description>Объявление №1 совсем не тестовое объявление.</description>
 	  <flatroomscount>2</flatroomscount>
 	  <totalarea>52.60</totalarea>
-	  <address>Челябинск, улица Кирова, 159</address>
+	  <address>Москва, НАО (Новомосковский), Сосенское, Сосенское поселение, улица Александры Монаховой</address>
 	  <coordinates>
-		<lat>55.164609</lat>
-		<lng>61.401187</lng>
+		<lat>37.484935</lat>
+		<lng>55.541158</lng>
 	  </coordinates>
 	  <cadastralnumber>50:11:0010104:608</cadastralnumber>
 	  <phones>
@@ -20,11 +20,11 @@
 	  </phones>
 	  <floornumber>9</floornumber>
 	  <jkschema>
-		<id>44080</id>
-		<name>Chelyabinsk City</name>
+		<id>7228</id>
+		<name>Бунинские луга</name>
 		<house>
-		  <id>99045</id>
-		  <name>Бекон</name>
+		  <id>4669</id>
+		  <name>1.10.1</name>
 		  <flat>
 			<sectionnumber>1</sectionnumber>
 			<flatnumber>5</flatnumber>
@@ -72,7 +72,7 @@
 		<currency>rur</currency>
 		<mortgageallowed>true</mortgageallowed>
 		<saletype>fz214</saletype>
-		<ActionId>10901</ActionId>
+		<ActionId>10942</ActionId>
 	  </bargainterms>
 	</object>
 </feed>
