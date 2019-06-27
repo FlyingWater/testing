@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<flats_for_sale><offer>
+
+<id>3171107</id>
+<rooms_num>1</rooms_num>
+<price currency="RUB">10350000</price>
+<options object_type="1" sale_type="F" phone="yes" lift_p="0" lift_g="0" balcon="1" lodgia="0" su_s="0" su_r="1" windows="" ipoteka="1" repair="4"/>
+<floor total="7" type="4">7</floor>
+<rooms_num>1</rooms_num>
+<area rooms="" living="30" kitchen="15" total="54"/>
+
+
+ 
+
+
+
+
+ <area living="30" region="0"/>
+<note><![CDATA[Тестовое объявление]]></note>
+<phone>79991234566</phone>
+<external_user>
+<email>test@test.test</email>
+<phone>79991234566</phone>
+<last_name>Покора</last_name>
+<first_name>Наталия</first_name>
+</external_user>
+<address admin_area="1" locality="Котловка" street="улица Нагорная" house_str="7/1" lat="55.681163" lng="37.610233"/>
+ <metro id="124" ttime="0" wtime=""/>
+<options year="2019"/>
+<photo>http://cloud.esoft.digital/12801024/photos/4ce6971c1e8592a7a69dadacad9af9268ff01d73.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/3cc77ff2e78d1b75ae0aa798d7723a2c8a499029.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/caef91fc894f4e0041e1296dcc44f05939cf15c3.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/c5e60b8c9c1bb635c8eb769ef2a79b6fd202e5e6.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/8b943e07a38155229e745fd55c3c251882d505dd.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/cdbba2eb3c05f7ff8e1e58d1f2547e3f0034b613.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/e909e960521625a6b12ad5bd9337dc5cb35414bd.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/07634881d53d9829cb1c405cd87ac53749d09e57.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/7119034088e3a0f6256cad6305227469178a0ec7.jpg</photo>
+<photo>http://cloud.esoft.digital/12801024/photos/59cd3917ed1d1d1198554ab2b284be21bb68c832.jpg</photo>
+<promotions>
+<promotion>top</promotion>
+</promotions> 
+
+
+
+</offer>
+</flats_for_sale>
