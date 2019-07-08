@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed>
+  <feed_version>2</feed_version>
+  <object>
+    <Category>flatSale</Category>
+    <ExternalId>200321</ExternalId>
+    <Description>Объявление создано администрацией ЦИАНА. Объявление не является публичной о ф е ртой. Пожалуйста, не обращайте внимание на данное объявление.</Description>
+    <Address>Москва, САО, р-н Коптево, бул. Матроса Железняка, 11</Address>
+    <FlatRoomsCount>2</FlatRoomsCount>
+    <Phones>
+      <PhoneSchema>
+        <CountryCode>+7</CountryCode>
+        <Number>9112223377</Number>
+      </PhoneSchema>
+    </Phones>
+    <TotalArea>120</TotalArea>
+    <FloorNumber>2</FloorNumber>
+    <LayoutPhoto>
+      <FullUrl>http://example.com/flat1.jpg</FullUrl>
+      <IsDefault>true</IsDefault>
+    </LayoutPhoto>
+    <Photos>
+      <PhotoSchema>
+        <FullUrl>http://example.com/flat1.jpg</FullUrl>
+        <IsDefault>true</IsDefault>
+      </PhotoSchema>
+    </Photos>
+    <Building>
+		<FloorsCount>13</FloorsCount>
+	</Building>
+    <BargainTerms>
+      <Price>42000000</Price>
+	<SaleType>free</SaleType>
+    </BargainTerms>
+	</object>
+</feed>
